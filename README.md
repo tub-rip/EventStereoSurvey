@@ -10,6 +10,7 @@ Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [S
 
 [![s](images/EventStereoSurvey_EvalTable.png)](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE)
 
+<br/><br/>
 [![s](images/EventStereoSurvey_Datasets.jpg)](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE/edit#gid=1539773438&range=A1)
 
 If you use this work in your research, please cite it as follows:
@@ -32,13 +33,13 @@ If you use this work in your research, please cite it as follows:
 * [Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization (TPAMI 2024). (Stereo in Sec. IV-E)](https://doi.org/10.1109/TPAMI.2024.3396116)
 * [MC-EMVS: Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion (AISY 2022)](https://github.com/tub-rip/dvs_mcemvs)
 * [ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras (TRO 2025)](https://github.com/NAIL-HNU/ESVO2)
-* [ESVO: Event-based Stereo Visual Odometry (TRO 2021)](https://sites.google.com/view/esvo-project-page/home), including cleaned **Stereo Dataset (DAVIS240C)**.
-* [Semi-dense 3D Reconstruction with a Stereo Event Camera (ECCV 2018)](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html), including **Stereo Dataset (DAVIS240C)**.
+* [ESVO: Event-based Stereo Visual Odometry (TRO 2021)](https://sites.google.com/view/esvo-project-page/home), including cleaned **Stereo Dataset**.
+* [Semi-dense 3D Reconstruction with a Stereo Event Camera (ECCV 2018)](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html), including **Stereo Dataset**.
 
 ## Monocular
 * [Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization (TPAMI 2024). (Monocular in Sec. IV-D)](https://doi.org/10.1109/TPAMI.2024.3396116)
-* [EDS: Event-aided Direct Sparse Odometry (CVPR 2022)](https://rpg.ifi.uzh.ch/eds.html)
-* [ESL: Event-based Structured Light (3DV 2021)](https://rpg.ifi.uzh.ch/eds.html)
+* [EDS: Event-aided Direct Sparse Odometry (CVPR 2022)](https://rpg.ifi.uzh.ch/eds.html), including **Dataset**.
+* [ESL: Event-based Structured Light (3DV 2021)](https://rpg.ifi.uzh.ch/eds.html), including **Dataset**.
 * [Focus Is All You Need: Loss Functions for Event-based Vision (CVPR 2019)](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)
 * [A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation (CVPR 2018)](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf)
 * [EVO: Event based Visual Odometry (RAL 2017)](https://github.com/uzh-rpg/rpg_dvs_evo_open/)
