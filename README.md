@@ -8,7 +8,9 @@ Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [S
 | [Table of Datasets](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE/edit#gid=1539773438&range=A1)
 </h2>
 
-<!-- [![ES-PTAM: Event-based Stereo Parallel Tracking and Mapping](docs/es_ptam_thumbnail.jpg)](https://youtu.be/z7J3lZOYwKs) -->
+[![s](images/EventStereoSurvey_EvalTable.png)](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE)
+
+[![s](images/EventStereoSurvey_Datasets.jpg)](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE/edit#gid=1539773438&range=A1)
 
 If you use this work in your research, please cite it as follows:
 
