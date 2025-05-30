@@ -1,6 +1,7 @@
 # Event-based Stereo Depth Estimation: A Survey
 
-Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [Suman Ghosh](https://www.linkedin.com/in/suman-ghosh-a8762576/) and [Guillermo Gallego](http://www.guillermogallego.es), published at **XXX 2024**.
+Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [Suman Ghosh](https://www.linkedin.com/in/suman-ghosh-a8762576/) and [Guillermo Gallego](http://www.guillermogallego.es), 2024.
+<!--published at **XXX 2024**.-->
 <h2 align="left">
   
 [Paper](https://arxiv.org/pdf/2409.17680) 
@@ -27,7 +28,7 @@ If you use this work in your research, please cite it as follows:
 # Our works on Event-based 3D Reconstruction
 
 ## Stereo
-* Stereo Event-based Spatial AI (2025). PhD Thesis at TU Berlin.
+<!-- Stereo Event-based Spatial AI (2025). PhD Thesis at TU Berlin. -->
 * [DERD-Net: Learning Depth from Event-based Ray Densities (2025)](https://arxiv.org/pdf/2504.15863)
 * [ES-PTAM: Event-based Stereo Parallel Tracking and Mapping (ECCVW 2024)](https://github.com/tub-rip/ES-PTAM)
 * [Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization (TPAMI 2024). (Stereo in Sec. IV-E)](https://doi.org/10.1109/TPAMI.2024.3396116)
@@ -51,4 +52,4 @@ If you use this work in your research, please cite it as follows:
 * [Research page (TU Berlin, RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
-* [List of Resources](https://github.com/uzh-rpg/event-based_vision_resources)
+* [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
