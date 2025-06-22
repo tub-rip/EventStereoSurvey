@@ -42,7 +42,7 @@ If you use this work in your research, please cite it as follows:
 ## Monocular
 * [Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization (TPAMI 2024). (Monocular in Sec. IV-D)](https://doi.org/10.1109/TPAMI.2024.3396116)
 * [EDS: Event-aided Direct Sparse Odometry (CVPR 2022)](https://rpg.ifi.uzh.ch/eds.html), including **Dataset**.
-* [ESL: Event-based Structured Light (3DV 2021)](https://rpg.ifi.uzh.ch/eds.html), including **Dataset**.
+* [ESL: Event-based Structured Light (3DV 2021)](https://rpg.ifi.uzh.ch/esl.html), including **Dataset**.
 * [Focus Is All You Need: Loss Functions for Event-based Vision (CVPR 2019)](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)
 * [A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation (CVPR 2018)](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf)
 * [EVO: Event based Visual Odometry (RAL 2017)](https://github.com/uzh-rpg/rpg_dvs_evo_open/)
