@@ -2,8 +2,7 @@
 
 # Event-based Stereo Depth Estimation: A Survey
 
-Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [Suman Ghosh](https://www.linkedin.com/in/suman-ghosh-a8762576/) and [Guillermo Gallego](http://www.guillermogallego.es), 2024.
-<!--published at **XXX 2024**.-->
+Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [Suman Ghosh](https://www.linkedin.com/in/suman-ghosh-a8762576/) and [Guillermo Gallego](http://www.guillermogallego.es), published in IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI) 2025**.
 <h2 align="left">
   
 [Paper](https://arxiv.org/pdf/2409.17680) 
