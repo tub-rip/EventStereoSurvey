@@ -21,8 +21,8 @@ If you use this work in your research, please cite it as follows:
 @article{Ghosh24survey,
   author = {Suman Ghosh and Guillermo Gallego},  
   title = {Event-based Stereo Depth Estimation: A Survey},
-  journal = {(under review)},
-  year = {2024}
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
+  year = {2025}
 }
 ```
 
