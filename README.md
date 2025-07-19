@@ -18,11 +18,12 @@ Official repository for **Event-based Stereo Depth Estimation: A Survey**, by [S
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@article{Ghosh24survey,
-  author = {Suman Ghosh and Guillermo Gallego},  
-  title = {Event-based Stereo Depth Estimation: A Survey},
-  journal = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
-  year = {2025}
+@article{Ghosh25tpami,
+  author        = {Suman Ghosh and Guillermo Gallego},
+  title         = {Event-based Stereo Depth Estimation: A Survey},
+  journal       = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
+  year          = 2025,
+  doi           = {10.1109/TPAMI.2025.3586559}
 }
 ```
 
